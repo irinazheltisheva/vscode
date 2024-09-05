@@ -47,14 +47,14 @@
     "eslint": "eslint -c .eslintrc.json --rulesdir ./build/lib/eslint --ext .ts --ext .js ./src/vs ./extensions"
   },
   "dependencies": {
-    "applicationinsights": "1.0.8",
-    "chokidar": "3.4.2",
+    "applicationinsights": "2.7.1",
+    "chokidar": "3.5.2",
     "graceful-fs": "4.2.3",
     "http-proxy-agent": "^2.1.0",
-    "https-proxy-agent": "^2.2.3",
+    "https-proxy-agent": "^4.0.0",
     "iconv-lite-umd": "0.6.8",
     "jschardet": "2.2.1",
-    "keytar": "^5.5.0",
+    "keytar": "^7.1.0",
     "minimist": "^1.2.5",
     "native-is-elevated": "0.4.1",
     "native-keymap": "2.2.0",
